@@ -13,8 +13,6 @@ ________________________________________________________________________________
 ### Fusion360 3D Modeled House
 [Fusion360 3D Modeled House File](https://github.com/joelyfontana/Portfolio/blob/main/3DFinalProject.zip) 
 
-### 
-
 ### Renders of Technical Practice Projects
 [Birthday Cake Render](https://github.com/joelyfontana/Portfolio/blob/main/BirthdayCakeRender.PNG)
 
