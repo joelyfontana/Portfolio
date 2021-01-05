@@ -14,4 +14,10 @@ ________________________________________________________________________________
 [Fusion360 3D Modeled House File](https://github.com/joelyfontana/Portfolio/blob/main/3DFinalProject.zip) 
 
 ### Renders of Technical Practice Projects
+[Birthday Cake Render](https://github.com/joelyfontana/Portfolio/blob/main/BirthdayCakeRender.PNG)
+[Coaster Render](https://github.com/joelyfontana/Portfolio/blob/main/ChapmanCoasterRender.png)
+[Technical Practive "Fishhook" Render](https://github.com/joelyfontana/Portfolio/blob/main/FishhookPracticeRender.png)
+[Popsicle Render](https://github.com/joelyfontana/Portfolio/blob/main/PopsicleRender.png)
+[PrusaFaceplate Render](https://github.com/joelyfontana/Portfolio/blob/main/PrusaFaceplateRender.png)
+[Technical Practice Star](https://github.com/joelyfontana/Portfolio/blob/main/TechnicalStarRender.png)
 
