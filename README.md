@@ -4,6 +4,9 @@ ________________________________________________________________________________
 
 ## Project Links
 
+### 3D Printed Mushroom Light
+[Mushroom Light](https://github.com/joelyfontana/Portfolio/tree/main/MushroomLight)
+
 ### Fortress Defense
 [Fortress TD - A Tower Defense Game](https://github.com/joelyfontana/FortressTD)
 
